@@ -1,3 +1,6 @@
+# Full Stack Open
+![FullStackOpen_UniveristyOfHelsinki](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/b5c4d777afdebf51ac77fc5aee208f3e)
+
 # Scrimba Frontend Developer Path
 Completed 70 hours of training along with ~ 40 hours of solo projects and challenges covering basic to advances use of:
 - HTML
