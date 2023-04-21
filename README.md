@@ -1,5 +1,6 @@
 # Full Stack Open
-![FullStackOpen_UniveristyOfHelsinki](https://github.com/igMike-V/Certifications/blob/3f6d5c54a649bbf4858ec8e560a1cc06e5c59595/FullStackOpen_7ECTS_Certificate.jpg)
+![FullStackOpen_Univeristy of Helsinki certificate](https://github.com/igMike-V/Certifications/blob/3f6d5c54a649bbf4858ec8e560a1cc06e5c59595/FullStackOpen_7ECTS_Certificate.jpg)
+![FullStackOpen Univeristy of Helsinki GraphQL certificate ](https://github.com/igMike-V/Certifications/blob/main/FSOcertificate-graphql.png)
 
 Links to certificates for verification: 
 
