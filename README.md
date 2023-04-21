@@ -3,11 +3,11 @@
 
 Links to certificates for verification: 
 
-Full Stack Open Main Course:
+### Full Stack Open Main Course:
 
 https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/b5c4d777afdebf51ac77fc5aee208f3e
 
-Additional Modules:
+### Additional Modules:
 
 GraphQL - https://studies.cs.helsinki.fi/stats/api/certificate/fs-graphql/en/4343de760a9c8cf5b6c52ff4ede0dd8d
 
