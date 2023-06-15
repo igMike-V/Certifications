@@ -13,13 +13,13 @@
 
 ### Full Stack Open Main Course:
 
-https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/b5c4d777afdebf51ac77fc5aee208f3e
+- https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/b5c4d777afdebf51ac77fc5aee208f3e
 
 ### Additional Modules:
 
-GraphQL - https://studies.cs.helsinki.fi/stats/api/certificate/fs-graphql/en/4343de760a9c8cf5b6c52ff4ede0dd8d
-TypeScript - https://studies.cs.helsinki.fi/stats/api/certificate/fs-typescript/en/c90d32acb7aadc6e4e5edf98e5566c58
-ReactNative - https://studies.cs.helsinki.fi/stats/api/certificate/fs-react-native-2020/en/7315839a44a483011f6c4b7ff268c561
+- GraphQL - https://studies.cs.helsinki.fi/stats/api/certificate/fs-graphql/en/4343de760a9c8cf5b6c52ff4ede0dd8d
+- TypeScript - https://studies.cs.helsinki.fi/stats/api/certificate/fs-typescript/en/c90d32acb7aadc6e4e5edf98e5566c58
+- ReactNative - https://studies.cs.helsinki.fi/stats/api/certificate/fs-react-native-2020/en/7315839a44a483011f6c4b7ff268c561
 
 # Scrimba Frontend Developer Path
 Completed 70 hours of training along with ~ 40 hours of solo projects and challenges covering basic to advances use of:
