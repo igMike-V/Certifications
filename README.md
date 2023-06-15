@@ -6,8 +6,10 @@
 ![FullStackOpen Univeristy of Helsinki GraphQL certificate ](https://github.com/igMike-V/Certifications/blob/main/FSOcertificate-graphql.png)
 #### Certficate for FullStackOpen - TypeScript - Additional Module
 ![FullStackOpen Univeristy of Helsinki GraphQL certificate ](https://github.com/igMike-V/Certifications/blob/main/FSOcertificate-typescript.png)
+#### Certficate for FullStackOpen - React Native - Additional Module
+![FullStackOpen Univeristy of Helsinki React Native certificate ](https://github.com/igMike-V/Certifications/blob/main/FSOcertificate-ReactNative.png)
 
-## Links to certificates for verification: 
+## Links to certificates for verification:
 
 ### Full Stack Open Main Course:
 
@@ -17,6 +19,7 @@ https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/b5c4d777af
 
 GraphQL - https://studies.cs.helsinki.fi/stats/api/certificate/fs-graphql/en/4343de760a9c8cf5b6c52ff4ede0dd8d
 TypeScript - https://studies.cs.helsinki.fi/stats/api/certificate/fs-typescript/en/c90d32acb7aadc6e4e5edf98e5566c58
+ReactNative - https://studies.cs.helsinki.fi/stats/api/certificate/fs-react-native-2020/en/7315839a44a483011f6c4b7ff268c561
 
 # Scrimba Frontend Developer Path
 Completed 70 hours of training along with ~ 40 hours of solo projects and challenges covering basic to advances use of:
