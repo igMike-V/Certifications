@@ -1,4 +1,5 @@
 # Full Stack Open
+Completed ~250 hours of training and coursework.
 
 #### Certficate for the main course (7 Modules)
 ![FullStackOpen_Univeristy of Helsinki certificate](https://github.com/igMike-V/Certifications/blob/3f6d5c54a649bbf4858ec8e560a1cc06e5c59595/FullStackOpen_7ECTS_Certificate.jpg)
@@ -12,6 +13,8 @@
 ![FullStackOpen Univeristy of Helsinki React Native certificate ](https://github.com/igMike-V/Certifications/blob/main/FSOcertificate-cicd.png)
 #### Certficate for FullStackOpen - Containers - Additional Module
 ![FullStackOpen Univeristy of Helsinki Containers certificate ](https://github.com/igMike-V/Certifications/blob/main/FSOcertificate-Containers.png)
+#### Certficate for FullStackOpen - Containers - Additional Module
+![FullStackOpen Univeristy of Helsinki Using Relational Databases certificate ](https://github.com/igMike-V/Certifications/blob/main/FSOcertificate-psql.png)
 
 ## Links to certificates for verification:
 
@@ -26,6 +29,7 @@
 - ReactNative - https://studies.cs.helsinki.fi/stats/api/certificate/fs-react-native-2020/en/7315839a44a483011f6c4b7ff268c561
 - CI/CD - https://studies.cs.helsinki.fi/stats/api/certificate/fs-cicd/en/d27428a857e7729f09d0996b1a71e4d8
 - Containers (docker dev and production environments) - https://studies.cs.helsinki.fi/stats/api/certificate/fs-containers/en/726d10351c3c8fab35c0f05f9443ee4c
+- Using relational databases (ExpressJS api with Sequelize - PostgreSQL) - https://studies.cs.helsinki.fi/stats/api/certificate/fs-psql/en/d60b70ec926305eca38d6ced96effadd
 
 # Scrimba Frontend Developer Path
 Completed 70 hours of training along with ~ 40 hours of solo projects and challenges covering basic to advances use of:
