@@ -13,7 +13,7 @@ Completed ~250 hours of training and coursework.
 ![FullStackOpen Univeristy of Helsinki React Native certificate ](https://github.com/igMike-V/Certifications/blob/main/FSOcertificate-cicd.png)
 #### Certficate for FullStackOpen - Containers - Additional Module
 ![FullStackOpen Univeristy of Helsinki Containers certificate ](https://github.com/igMike-V/Certifications/blob/main/FSOcertificate-Containers.png)
-#### Certficate for FullStackOpen - Containers - Additional Module
+#### Certficate for FullStackOpen - Using Relational Databases - Additional Module
 ![FullStackOpen Univeristy of Helsinki Using Relational Databases certificate ](https://github.com/igMike-V/Certifications/blob/main/FSOcertificate-psql.png)
 
 ## Links to certificates for verification:
